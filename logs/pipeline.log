@@ -1,0 +1,39 @@
+2026-03-15 22:27:03,353 - INFO - Pipeline started
+2026-03-15 22:27:03,360 - INFO - Extract completed
+2026-03-15 22:27:03,364 - INFO - Transform completed
+2026-03-15 22:27:03,364 - INFO - Validation started
+2026-03-15 22:27:03,366 - INFO - Dataset row count: 5000
+2026-03-15 22:27:03,367 - INFO - Missing region rows: 0
+2026-03-15 22:27:03,367 - WARNING - 2 rows contain negative quantity
+2026-03-15 22:27:03,367 - WARNING - 1 rows contain negative unit price
+2026-03-15 22:27:03,367 - WARNING - 74 rows contain negative sales
+2026-03-15 22:27:03,371 - INFO - Latest date: 2025-12-31 00:00:00
+2026-03-15 22:27:03,371 - INFO - Validation completed
+2026-03-15 22:27:03,380 - INFO - Load completed
+2026-03-15 22:27:03,380 - INFO - Pipeline finished
+2026-03-15 22:27:35,403 - INFO - Pipeline started <<<-----
+2026-03-15 22:27:35,411 - INFO - Extract completed
+2026-03-15 22:27:35,414 - INFO - Transform completed
+2026-03-15 22:27:35,414 - INFO - Validation started
+2026-03-15 22:27:35,416 - INFO - Dataset row count: 5000
+2026-03-15 22:27:35,417 - INFO - Missing region rows: 0
+2026-03-15 22:27:35,417 - WARNING - 2 rows contain negative quantity
+2026-03-15 22:27:35,417 - WARNING - 1 rows contain negative unit price
+2026-03-15 22:27:35,417 - WARNING - 74 rows contain negative sales
+2026-03-15 22:27:35,421 - INFO - Latest date: 2025-12-31 00:00:00
+2026-03-15 22:27:35,421 - INFO - Validation completed
+2026-03-15 22:27:35,430 - INFO - Load completed
+2026-03-15 22:27:35,430 - INFO - Pipeline finished <<<-----
+2026-03-15 22:28:07,252 - INFO - ----- Pipeline started -----
+2026-03-15 22:28:07,259 - INFO - Extract completed
+2026-03-15 22:28:07,262 - INFO - Transform completed
+2026-03-15 22:28:07,262 - INFO - Validation started
+2026-03-15 22:28:07,263 - INFO - Dataset row count: 5000
+2026-03-15 22:28:07,264 - INFO - Missing region rows: 0
+2026-03-15 22:28:07,265 - WARNING - 2 rows contain negative quantity
+2026-03-15 22:28:07,265 - WARNING - 1 rows contain negative unit price
+2026-03-15 22:28:07,265 - WARNING - 74 rows contain negative sales
+2026-03-15 22:28:07,269 - INFO - Latest date: 2025-12-31 00:00:00
+2026-03-15 22:28:07,269 - INFO - Validation completed
+2026-03-15 22:28:07,278 - INFO - Load completed
+2026-03-15 22:28:07,278 - INFO - ----- Pipeline finished -----

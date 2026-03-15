@@ -1,6 +1,0 @@
-order_id,product,price,quantity,date
-1001,Laptop,35000,1,2025-01-01
-1002,Mouse,500,2,2025-01-02
-1003,Keyboard,1200,,2025-01-03
-1004,Monitor,8000,1,2025-01-04
-1005,Mouse,,3,2025-01-05
